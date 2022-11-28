@@ -1,0 +1,16 @@
+:root{
+  --primary: #d81e5b;
+  --secondary: #8c38ff;
+  --dark: #131a26;
+  --light: #eee;
+  --backcolor: #0A0C2D;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial' , sans-serif;
+}
+body{
+  background-color: var(--backcolor);
+}
